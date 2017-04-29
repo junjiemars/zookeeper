@@ -16,3 +16,8 @@ src/c/generated/
 src/java/generated/
 src/java/lib/ant-eclipse-*
 src/java/lib/ivy-*
+src/c/aclocal.m4
+src/c/autom4te.cache
+src/c/configure
+src/c/ltmain.sh
+src/java/lib/jdiff/zookeeper_*.xml
