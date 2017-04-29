@@ -21,3 +21,4 @@ src/c/autom4te.cache
 src/c/configure
 src/c/ltmain.sh
 src/java/lib/jdiff/zookeeper_*.xml
+.idea/workspace.xml
