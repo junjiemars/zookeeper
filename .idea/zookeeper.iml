@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://build" />
+    <output-test url="file://build/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/java/generated" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java/systest" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/java/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/recipes/election/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/recipes/election/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/recipes/lock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/recipes/lock/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/recipes/queue/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/recipes/queue/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/build/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/build/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/build/test/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/build/test/lib" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/build/test/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/build/test/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
