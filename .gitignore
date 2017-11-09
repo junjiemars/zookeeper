@@ -28,7 +28,7 @@ out/
 # Intellij
 *.ipr
 *.iws
-*.iml
+#*.iml
 
 # NetBeans
 *~.nib
